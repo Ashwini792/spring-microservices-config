@@ -1,0 +1,11 @@
+
+my:
+  name: Arush
+accounts:
+  message: Welcome to microservices dev
+  contactDetails:
+    name: Arush
+    email: arushdev@gmail.com
+  contactNo:
+    -76895099
+    -45655555

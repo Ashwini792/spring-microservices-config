@@ -1,0 +1,11 @@
+
+my:
+  name: Ashwini
+accounts:
+  message: Welcome o microservices
+  contactDetails:
+    name: Ashwini
+    email: ashu@gmail.com
+  contactNo:
+    -76895099
+    -45655555

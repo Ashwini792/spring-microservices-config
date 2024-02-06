@@ -1,0 +1,11 @@
+
+my:
+  name: Lithvik
+accounts:
+  message: Welcome to microservices QA
+  contactDetails:
+    name: Lithvik
+    email: lithvikqa@gmail.com
+  contactNo:
+    -76895099
+    -45655555

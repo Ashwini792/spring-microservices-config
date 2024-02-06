@@ -1,0 +1,11 @@
+
+my:
+  name: Arpitha
+accounts:
+  message: Welcome to microservices Prod
+  contactDetails:
+    name: Arpitha
+    email: arpithaprod@gmail.com
+  contactNo:
+    -76895099
+    -45655555
