@@ -1,11 +1,10 @@
 
-my:
-  name: Arpitha
-accounts:
-  message: Welcome to microservices Prod
-  contactDetails:
-    name: Arpitha
-    email: arpithaprod@gmail.com
-  contactNo:
-    -76895099
-    -45655555
+contact:
+  title: Ezeebank accounts Prod contact support
+  details:
+    name: Ashu
+    email: ashwu-prod@gmail.com
+  phoneNos:
+    -674476633
+    -664646465
+
