@@ -1,11 +1,11 @@
 
-my:
-  name: Lithvik
-accounts:
-  message: Welcome to microservices QA
-  contactDetails:
-    name: Lithvik
-    email: lithvikqa@gmail.com
-  contactNo:
-    -76895099
-    -45655555
+
+contact:
+  title: Ezeebank accounts QA contact support
+  details:
+    name: Ashu
+    email: ashwu-qa@gmail.com
+  phoneNos:
+    -674476633
+    -664646465
+
