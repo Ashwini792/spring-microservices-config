@@ -1,11 +1,29 @@
+spring:
+  application:
+    name: accounts
+  profiles:
+    active: local
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+    hibernate:
+      ddl-auto: update
+      show-sql: true
 
-my:
-  name: Ashwini
-accounts:
-  message: Welcome o microservices
-  contactDetails:
-    name: Ashwini
-    email: ashu@gmail.com
-  contactNo:
-    -76895099
-    -45655555
+  datasource:
+    url: jdbc:postgresql://localhost:5432/accounts
+    username: postgres
+    password: Mac@2020
+server:
+  error:
+    include-stacktrace: on_param
+contact:
+  title: Ezeebank accounts contact support
+  details:
+    name: Ashu
+    email: ashwu@gmail.com
+  phoneNos:
+    -674476633
+    -664646465
+
